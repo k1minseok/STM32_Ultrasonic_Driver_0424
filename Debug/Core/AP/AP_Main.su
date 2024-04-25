@@ -1,0 +1,5 @@
+../Core/AP/AP_Main.c:20:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/AP/AP_Main.c:28:6:sys_init	16	static
+../Core/AP/AP_Main.c:51:5:APMain	64	static
+../Core/AP/AP_Main.c:92:6:modeStateCheck	8	static
+../Core/AP/AP_Main.c:116:6:modeStateRun	16	static
